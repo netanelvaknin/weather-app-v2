@@ -5,7 +5,7 @@ export const API_KEY = "eB23GARxmmVMANbRzvJaDA4t2TanwbtJ";
 
 const instanceConfig = {
   // baseURL: "http://localhost:3000/",
-  baseURL: "http://dataservice.accuweather.com/",
+  baseURL: "https://dataservice.accuweather.com/",
   headers: {
     "Content-type": "application/json",
     Accept: "application/json",
